@@ -1,0 +1,11 @@
+canvas {
+box-shadow: 1px 1px 38px hotpink;
+}
+
+h3 {
+  font-size: 25px !important;
+}
+
+.btn-success:hover{
+    background-color: red;
+}
